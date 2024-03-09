@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/envoa/static/css/main.56bc80f3.css",
+    "main.js": "/envoa/static/js/main.d1f5c0cb.js",
+    "static/media/envoy_logo.png": "/envoa/static/media/envoy_logo.aacb3b3d68b76fe49276.png",
+    "index.html": "/envoa/index.html",
+    "main.56bc80f3.css.map": "/envoa/static/css/main.56bc80f3.css.map",
+    "main.d1f5c0cb.js.map": "/envoa/static/js/main.d1f5c0cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56bc80f3.css",
+    "static/js/main.d1f5c0cb.js"
+  ]
+}
