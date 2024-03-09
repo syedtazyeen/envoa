@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56bc80f3.css",
+    "main.js": "/static/js/main.20664182.js",
+    "static/media/envoy_logo.png": "/static/media/envoy_logo.aacb3b3d68b76fe49276.png",
+    "index.html": "/index.html",
+    "main.56bc80f3.css.map": "/static/css/main.56bc80f3.css.map",
+    "main.20664182.js.map": "/static/js/main.20664182.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56bc80f3.css",
+    "static/js/main.20664182.js"
+  ]
+}
